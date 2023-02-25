@@ -1,0 +1,8 @@
+venv
+
+# ignore all python related
+*.pyc
+__pycache__
+
+db.sqlite3
+database.db
